@@ -6,7 +6,7 @@ Lately I build with **AI agents**. I co-built Wego's internal coding-agent platf
 
 #### Selected work
 
-| | |
+| Project | What I did |
 |---|---|
 | **Keyword Ads** · Tokopedia | Designed and built the feature end to end; about IDR 4.5B in monthly revenue after rollout |
 | **Price-accuracy tracking** · Wego | Led a partner landing pixel and event pipeline; price-tracking coverage of flight click-outs went from ~13% to ~68% |
