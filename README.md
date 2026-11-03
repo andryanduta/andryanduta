@@ -1,6 +1,6 @@
-### I build the money side of marketplaces.
+### Hi, I'm Andryan.
 
-I'm Andryan, a senior software engineer in Indonesia. Ads, ranking, and partner integrations are my thing: the parts users scroll right past and the business quietly runs on.
+Senior software engineer in Indonesia. Ads, ranking, and partner integrations are my thing: the parts users scroll right past and the business quietly runs on.
 
 Right now I'm at [**@wego**](https://github.com/wego), where I work on sponsored ads and partner ranking for flight search, helping travelers find good deals and airlines and travel sites get seen. Before that I helped integrate TikTok Shop Ads at [**@bytedance**](https://github.com/bytedance), and spent years building TopAds at [**@tokopedia**](https://github.com/tokopedia), one of Indonesia's largest marketplaces.
 
