@@ -1,28 +1,13 @@
-### Hi, I'm Andryan
+### I build the money side of marketplaces.
 
-I'm a senior software engineer based in Indonesia. Most of my career has been in **ads and marketplace systems**: TopAds at Tokopedia, the TikTok Shop Ads integration at ByteDance, and now sponsored ads, partner ranking and partner integrations for flight search at [Wego](https://www.wego.com).
+I'm Andryan, a senior software engineer in Indonesia. Ads, ranking, and partner integrations are my thing: the parts users scroll right past and the business quietly runs on.
 
-Lately I build with **AI agents**. I co-built Wego's internal coding-agent platform, which turns Slack requests and production alerts into pull requests, and my team was a WegoHack 2.0 finalist with an agent that handles B2B receivables follow-up.
+Right now I'm at [**@wego**](https://github.com/wego), where I work on sponsored ads and partner ranking for flight search, helping travelers find good deals and airlines and travel sites get seen. Before that I helped integrate TikTok Shop Ads at [**@bytedance**](https://github.com/bytedance), and spent years building TopAds at [**@tokopedia**](https://github.com/tokopedia), one of Indonesia's largest marketplaces.
 
-#### Selected work
+These days I'm also figuring out how AI coding agents fit into real engineering work. My side project, [**domain-generator**](https://github.com/andryanduta/domain-generator), scaffolds a whole Go service domain (HTTP, Kafka/NSQ/NATS/RabbitMQ consumers, cron, tests) in one command, and agents can call it as an MCP tool instead of writing boilerplate.
 
-| Project | What I did |
-|---|---|
-| **Keyword Ads** · Tokopedia | Designed and built the feature end to end; about IDR 4.5B in monthly revenue after rollout |
-| **Price-accuracy tracking** · Wego | Led a partner landing pixel and event pipeline; price-tracking coverage of flight click-outs went from ~13% to ~68% |
-| **AI coding-agent platform** · Wego | Co-author and most active engineer: alert triage, PR auto-fix, LLM evals |
-| [**domain-generator**](https://github.com/andryanduta/domain-generator) | Go CLI that scaffolds DDD-style domain services ([why I built it](https://www.linkedin.com/posts/andryanduta_a-lot-of-developers-say-writing-boilerplate-activity-7275430281493274626-_xDD)) |
+Away from the keyboard I'm a session drummer (since 2009), a weekend cyclist, and a dad.
 
-#### Stack
+#### Off GitHub
 
-Go · Java · Python · TypeScript &nbsp;|&nbsp; PostgreSQL · Redis · BigQuery · Kafka &nbsp;|&nbsp; AWS · Kubernetes · Terraform · Datadog
-
-#### Off the keyboard
-
-Session drummer since 2009 ([featured by Life at Tokopedia](https://medium.com/life-at-tokopedia/shaping-lives-and-creating-opportunities-through-music-baae942e6e9f)), cyclist, and dad.
-
----
-
-[CV](https://andryan-gama.pages.dev) · [LinkedIn](https://www.linkedin.com/in/andryanduta/) · andryangama@gmail.com
-
-<sub>Most of my day-to-day work lives in private company repositories.</sub>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white" />](https://www.linkedin.com/in/andryanduta/) [<img alt="CV" src="https://img.shields.io/badge/CV-238636?style=flat-square&logo=readme&logoColor=white" />](https://andryan-gama.pages.dev) [<img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />](mailto:andryangama@gmail.com)
